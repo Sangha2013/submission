@@ -12,4 +12,4 @@ I have used Python3 for submission
   <img src="content_image.png" alt="" width="30%"> <img src="style.png" alt="" width="30%"> <img src="StyleTransferredImage.png" alt="" width="30%">
 
 
-<img src="Sample Images/content_image.png" alt="" width="30%"> <img src="Sample Images/style_image.png" alt="" width="30%"> <img src="Sample Images/StyleTransferredImage.png" alt="" width="30%">
+<img src="Sample Images/content_image.png" alt="" width="30%"> <img src="Sample Images/style.png" alt="" width="30%"> <img src="Sample Images/StyleTransferredImage.png" alt="" width="30%">
