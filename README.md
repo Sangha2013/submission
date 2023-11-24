@@ -26,7 +26,7 @@ The neural style transfer algorithm involves training a model to generate an ima
 * Run the Jupyter Notebook:
 * jupyter notebook submission.ipynb
   ## Results
-   *The trained model will generate a stylized image based on the chosen content and style. Intermediate stylized images will be displayed during training for visual *inspection.
+   * The trained model will generate a stylized image based on the chosen content and style. Intermediate stylized images will be displayed during training for visual inspection.
 
 ## Limitations and Future Improvements
 ## Limitations:
@@ -39,12 +39,27 @@ The neural style transfer algorithm involves training a model to generate an ima
 
 ## Content-Style Mismatch:
 
-* Achieving a balance between preserving the content of the input image and applying the desired style can be challenging..
-### Training Data Bias:
+* Achieving a balance between preserving the content of the input image and applying the desired style can be challenging.
+  
+## Training Data Bias:
 
 * The effectiveness of the model depends on the diversity and quality of the training data.
+## Potential Improvements:
+ ## Model Architecture:
 
+* Explore and experiment with different neural network architectures for style transfer. 
+ ## Loss Function Tuning:
 
+* Fine-tune the loss functions used during training to place more emphasis on specific aspects, such as texture preservation or color accuracy. 
+ ## Transfer Learning:
+
+* Utilize transfer learning by pre-training the model on a large dataset of diverse styles before fine-tuning on a specific dataset.
+## Post-Processing Techniques:
+
+* Implement post-processing techniques to address artifacts and enhance the visual quality of the stylized images.
+
+## Acknowledgments
+* This implementation is based on the principles outlined in the paper "A Neural Algorithm of Artistic Style" by Gatys et al.
 
 
 ## Results
