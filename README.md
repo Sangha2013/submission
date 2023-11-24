@@ -12,4 +12,3 @@ I have used Python3 for submission
   <img src="content_image .png" alt="" width="30%"> <img src="style_image .png" alt="" width="30%"> <img src="style_transfer.png" alt="" width="30%">
 
 
-<img src="Sample Images/content_image .png" alt="" width="30%"> <img src="Sample Images/style_image .png" alt="" width="30%"> <img src="Sample Images/style_transfer.png" alt="" width="30%">
