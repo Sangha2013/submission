@@ -57,6 +57,8 @@ The neural style transfer algorithm involves training a model to generate an ima
 ### Post-Processing Techniques:
 
 * Implement post-processing techniques to address artifacts and enhance the visual quality of the stylized images.
+## Total-loss
+* Total loss: 9.2081e+05, style loss: 3.3100e+05, content loss: 5.8981e+05
 
 ## Acknowledgments
 * This implementation is based on the principles outlined in the paper "A Neural Algorithm of Artistic Style" by Gatys et al.
