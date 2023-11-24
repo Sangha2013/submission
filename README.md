@@ -8,7 +8,9 @@ I have used Python3 for submission
 4. **Scipy**
 
 ## Results
-* Content Image                                 +                      Style Image            =       Style Transferred Image
+* Content Image                               +                      Style Image            =       Style Transferred Image
+
+* 
   <img src="content_image .png" alt="" width="30%"> <img src="style_image .png" alt="" width="30%"> <img src="style_transfer.png" alt="" width="30%">
 
 
