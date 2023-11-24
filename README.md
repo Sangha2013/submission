@@ -20,11 +20,30 @@ The neural style transfer algorithm involves training a model to generate an ima
 * pip install tensorflow numpy matplotlib pillow
 ## Usage
 * Clone the repository:
-git clone https://github.com/Sangha2013/submission.git
-cd style-transfer
+ **git clone https://github.com/Sangha2013/submission.git**
+   **cd style-transfer**
 * Update the content_path and style_path variables in the script with the paths to your content and style images.
 * Run the Jupyter Notebook:
-* 
+* jupyter notebook submission.ipynb
+  ## Results
+   *The trained model will generate a stylized image based on the chosen content and style. Intermediate stylized images will be displayed during training for visual *inspection.
+
+## Limitations and Future Improvements
+## Limitations:
+## Computational Resources:
+
+* The model's performance may be limited by the available computational resources.
+## Style Transfer Artifacts:
+
+* Neural style transfer models may produce artifacts such as distortions, color inconsistencies, or unrealistic textures, especially when transferring intricate styles.
+
+## Content-Style Mismatch:
+
+* Achieving a balance between preserving the content of the input image and applying the desired style can be challenging..
+### Training Data Bias:
+
+* The effectiveness of the model depends on the diversity and quality of the training data.
+
 
 
 
