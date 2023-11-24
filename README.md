@@ -19,8 +19,8 @@ The neural style transfer algorithm involves training a model to generate an ima
 
 * pip install tensorflow numpy matplotlib pillow
 ## Usage
-*Clone the repository:
-git clone https://github.com/Sangha2013/submission
+* Clone the repository:
+git clone https://github.com/Sangha2013/submission.git
 cd style-transfer
 * Update the content_path and style_path variables in the script with the paths to your content and style images.
 * Run the Jupyter Notebook:
